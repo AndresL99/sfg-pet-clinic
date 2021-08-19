@@ -1,0 +1,5 @@
+guro\springframework\sfgpetclinic\domain\Person.class
+guro\springframework\sfgpetclinic\domain\Vet.class
+guro\springframework\sfgpetclinic\domain\PetType.class
+guro\springframework\sfgpetclinic\domain\Pet.class
+guro\springframework\sfgpetclinic\domain\Owner.class
