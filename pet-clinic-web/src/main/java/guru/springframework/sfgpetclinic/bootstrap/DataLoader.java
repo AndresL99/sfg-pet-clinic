@@ -4,6 +4,7 @@ import guro.springframework.sfgpetclinic.domain.Owner;
 import guro.springframework.sfgpetclinic.domain.Vet;
 import guro.springframework.sfgpetclinic.service.OwnerService;
 import guro.springframework.sfgpetclinic.service.VetService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
