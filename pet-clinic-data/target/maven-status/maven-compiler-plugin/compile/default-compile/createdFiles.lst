@@ -1,5 +1,14 @@
+guro\springframework\sfgpetclinic\service\map\VetServiceMap.class
+guro\springframework\sfgpetclinic\service\PetService.class
+guro\springframework\sfgpetclinic\domain\PetType.class
+guro\springframework\sfgpetclinic\service\CrudService.class
+guro\springframework\sfgpetclinic\service\map\OwnerServiceMap.class
 guro\springframework\sfgpetclinic\domain\Person.class
 guro\springframework\sfgpetclinic\domain\Vet.class
-guro\springframework\sfgpetclinic\domain\PetType.class
 guro\springframework\sfgpetclinic\domain\Pet.class
 guro\springframework\sfgpetclinic\domain\Owner.class
+guro\springframework\sfgpetclinic\service\VetService.class
+guro\springframework\sfgpetclinic\service\map\AbstractMapService.class
+guro\springframework\sfgpetclinic\service\map\PetServiceMap.class
+guro\springframework\sfgpetclinic\service\OwnerService.class
+guro\springframework\sfgpetclinic\domain\BaseEntity.class
