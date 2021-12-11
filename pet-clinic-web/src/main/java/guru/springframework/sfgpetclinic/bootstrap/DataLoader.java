@@ -1,6 +1,5 @@
 package guru.springframework.sfgpetclinic.bootstrap;
 
-import guro.springframework.sfgpetclinic.domain.*;
 import guro.springframework.sfgpetclinic.service.OwnerService;
 import guro.springframework.sfgpetclinic.service.PetTypeService;
 import guro.springframework.sfgpetclinic.service.SpecialityService;
