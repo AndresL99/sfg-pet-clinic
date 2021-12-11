@@ -1,9 +1,11 @@
 package guru.springframework.sfgpetclinic.bootstrap;
 
+import guro.springframework.sfgpetclinic.domain.*;
 import guro.springframework.sfgpetclinic.service.OwnerService;
 import guro.springframework.sfgpetclinic.service.PetTypeService;
 import guro.springframework.sfgpetclinic.service.SpecialityService;
 import guro.springframework.sfgpetclinic.service.VetService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
@@ -17,6 +19,8 @@ public class DataLoader implements CommandLineRunner
     private final VetService vetService;
     private final PetTypeService petTypeService;
     private final SpecialityService specialityService;
+
+
 
 
     public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialityService specialityService) {
